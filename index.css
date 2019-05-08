@@ -14,3 +14,10 @@ body {
 .hidden {
   display: none;
 }
+
+#errors {
+  margin: auto;
+  width: 50%;
+  color: red;
+  padding: 10px;
+}
